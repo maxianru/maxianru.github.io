@@ -7,6 +7,7 @@
 - IEEE Transactions on Network Science and Engineering
 - IEEE Transactions on Industrial Informatics
 - IEEE Internet of Things Journal
+- International Journal of Robotics Research
 - Journal of Cloud Computing
 
 ### &nbsp;&nbsp;&nbsp;&nbsp; Conference
