@@ -24,7 +24,7 @@
 ##  &nbsp;&nbsp; 5️⃣ Working Manuscript
 
 - <span style="color: red; font-weight: bold;">[INFOCOM, CCF A]</span>  **Jiancheng Chi**, Xiaobo Zhou, Fu Xiao, Tie Qiu. Task Offloading Scheme Based on Semi-supervised Reservoir Computing in IIoT. INFOCOM, 2024.
-- <span style="color: red; font-weight: bold;">[COMST, JCR Q1, IF=35.6, SCI&ESI High Cited]</span> **Jiancheng Chi**, Tie Qiu, Xiaobo Zhou, et al. Artificial Intelligence-Empowered Industrial Edge Computing: A Survey and Future Perspectives, 2025.
+- <span style="color: red; font-weight: bold;">[COMST, JCR Q1]</span> **Jiancheng Chi**, Tie Qiu, Xiaobo Zhou, et al. Artificial Intelligence-Empowered Industrial Edge Computing: A Survey and Future Perspectives, 2025.
 - **池建成**, 工业边缘计算自适应任务卸载机制研究, 天津大学博士学位论文, 2024.
 
 ##  &nbsp;&nbsp; 6️⃣ Patent
