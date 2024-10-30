@@ -1,0 +1,13 @@
+# 🥇 Honors and Awards
+- **2018** Outstanding Graduate of Tianjin University
+- **2020,2021,2022** Merit Student of Tianjin University (3 times)
+- **2020,2021,2022** First-class Academic Scholarship of Tianjin University (3 times)
+- **2021** Outstanding Youth of the College of Intelligence and Computing, Tianjin University
+- **2021** Lenovo Scholarship of Tianjin University
+- **2021** Advanced Individual in Science and Technology Innovation of Tianjin University
+- **2021** Advanced Individual in Self-improvement of Tianjin University
+- **2021** CSCWD Best Paper Award
+- **2021** ESI High Cited Paper（1%）
+- **2022** CSC Government-sponsored Study Abroad Scholarship
+- **2023** Advanced Individual in Science and Technology Innovation of Tianjin University
+- **2023** Advanced Individual in International Communication of Tianjin University
