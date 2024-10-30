@@ -23,5 +23,5 @@ main:
 
 
 
-  #- title: "Hobbies"
-  #  url: "/hobbies" 
+  - title: "Hobbies"
+    url: "/hobbies" 
