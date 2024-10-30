@@ -1,4 +1,6 @@
 # main links links
+#   - title: "Hobbies"
+#   url: "/hobbies" 
 main:
   - title: "Biography"
     url: "/#--biography"
@@ -21,5 +23,4 @@ main:
   - title: "News"
     url: "/#-news"
 
-  - title: "Hobbies"
-    url: "/hobbies" 
+
