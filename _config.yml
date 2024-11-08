@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Jiancheng Chi 池建成"
-description              : "Ph.D Student at SmarIoT Lab, College of Intelligence and Computing."
-repository               : "chijiancheng/chijiancheng.github.io"
+title                    : "马贤茹"
+description              : "讲师，硕士生导师"
+repository               : "maxianru/maxianru.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,15 +21,15 @@ baidu_site_verification  : code-ZxFK3f4pfb
 
 # Site Author
 author:
-  english_name             : "Jiancheng(Janson) Chi"
-  chinese_name             : "池建成"
+  english_name             : "Xianru Ma"
+  chinese_name             : "马贤茹"
   avatar           : "images/Chi.jpg"
-  bio              : "SmartIoT Lab"
-  location         : "Tianjin, China"
-  employer         : "Tianjin University"
+  bio              : "讲师，硕士生导师"
+  location         : "大连，辽宁"
+  employer         : "东北财经大学"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=IZtkGZ0AAAAJ&hl=en"
-  email            : "chijiancheng@tju.edu.cn"
+  googlescholar    : ""
+  email            : "maxianru@dufe.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -45,7 +45,7 @@ author:
   impactstory      : 
   lastfm           :
   linkedin         : 
-  dblp             : "https://dblp.uni-trier.de/pid/273/8657.html"
+  dblp             : ""
   orcid            : 
   pinterest        :
   soundcloud       :
