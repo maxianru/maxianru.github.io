@@ -6,7 +6,7 @@ main:
     url: "#intro"
 
   - title: "教育经历"
-    url: "#education"
+    url: "#edu"
 
   - title: "研究方向"
     url: "#research"
