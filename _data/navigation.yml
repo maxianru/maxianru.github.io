@@ -3,27 +3,27 @@
 #   url: "/hobbies" 
 main:
   - title: "个人简介"
-    url: "/#--个人简介"
+    url: "#--个人简介"
 
   - title: "教育经历"
-    url: "/#-教育经历"
+    url: "#-教育经历"
 
   - title: "研究方向"
-    url: "/#-研究方向"
+    url: "#-研究方向"
 
   - title: "论文著作"
-    url: "/#-论文著作"
+    url: "#-论文著作"
 
   - title: "科研项目"
-    url: "/#-科研项目"
+    url: "#-科研项目"
 
   - title: "曾获奖励"
-    url: "/#-honors-and-awards"
+    url: "#-honors-and-awards"
 
   - title: "社会活动"
-    url: "/#-社会活动"
+    url: "#-社会活动"
 
   - title: "新闻"
-    url: "/#-news"
+    url: "#-news"
 
 
