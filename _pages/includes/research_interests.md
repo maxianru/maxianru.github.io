@@ -1,7 +1,3 @@
-# 💗 Research Interests
-- Industrial Internet of Things
-- Industrial Big Data
-- Edge Computing
-- Task Offloading
-- Blockchain
-- Machine Learning
+# 💗 研究方向
+- 经济法学（竞争法学）
+- 数字法学
