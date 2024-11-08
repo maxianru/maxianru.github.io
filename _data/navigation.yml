@@ -3,10 +3,10 @@
 #   url: "/hobbies" 
 main:
   - title: "个人简介"
-    url: "/#--个人简介"
+    url: "#个人简介"
 
   - title: "教育经历"
-    url: "/#-教育经历"
+    url: "#教育经历"
 
   - title: "研究方向"
     url: "/#-研究方向"
