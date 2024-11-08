@@ -1,1 +1,1 @@
-# 🔥 Newpapers
+# 🔥 News
