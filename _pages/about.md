@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-<span class='anchor' id='biography'></span>
+<span class='anchor' id='个人简介'></span>
 {% include_relative includes/intro.md %}
 
 {% include_relative includes/edu.md %}
