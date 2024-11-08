@@ -20,6 +20,8 @@ redirect_from:
 
 {% include_relative includes/projects.md %}
 
+{% include_relative includes/courses.md %}
+
 {% include_relative includes/honers.md %}
 
 {% include_relative includes/activities.md %}
