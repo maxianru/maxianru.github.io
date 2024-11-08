@@ -2,25 +2,25 @@
 #   - title: "Hobbies"
 #   url: "/hobbies" 
 main:
-  - title: "Biography"
+  - title: "个人简介"
     url: "/#--biography"
 
-  - title: "Educations"
+  - title: "教育经历"
     url: "/#-educations"
 
-  - title: "Research Interests"
+  - title: "研究方向"
     url: "/#-research-interests"
 
-  - title: "Publications"
+  - title: "论文著作"
     url: "/#-publications"
 
-  - title: "Honors and Awards"
+  - title: "曾获奖励"
     url: "/#-honors-and-awards"
 
-  - title: "Activities"
+  - title: "学术活动"
     url: "/#-activities"
 
-  - title: "News"
+  - title: "新闻"
     url: "/#-news"
 
 
