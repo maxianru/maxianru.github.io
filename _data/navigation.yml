@@ -14,10 +14,13 @@ main:
   - title: "论文著作"
     url: "/#-publications"
 
+    - title: "科研项目"
+    url: "/#-projects"
+
   - title: "曾获奖励"
     url: "/#-honors-and-awards"
 
-  - title: "学术活动"
+  - title: "社会活动"
     url: "/#-activities"
 
   - title: "新闻"
