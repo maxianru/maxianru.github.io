@@ -27,6 +27,6 @@ main:
     url: "/#-社会活动"
 
   - title: "新闻"
-    url: "/#-news"
+    url: "#news"
 
 
