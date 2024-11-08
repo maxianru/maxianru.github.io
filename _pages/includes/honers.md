@@ -1,13 +1,17 @@
-# 🥇 Honors and Awards
-- **2018** Outstanding Graduate of Tianjin University
-- **2020,2021,2022** Merit Student of Tianjin University (3 times)
-- **2020,2021,2022** First-class Academic Scholarship of Tianjin University (3 times)
-- **2021** Outstanding Youth of the College of Intelligence and Computing, Tianjin University
-- **2021** Lenovo Scholarship of Tianjin University
-- **2021** Advanced Individual in Science and Technology Innovation of Tianjin University
-- **2021** Advanced Individual in Self-improvement of Tianjin University
-- **2021** CSCWD Best Paper Award
-- **2021** ESI High Cited Paper（1%）
-- **2022** CSC Government-sponsored Study Abroad Scholarship
-- **2023** Advanced Individual in Science and Technology Innovation of Tianjin University
-- **2023** Advanced Individual in International Communication of Tianjin University
+# 🥇 荣誉奖励
+- 东北财经大学青年教师教学竞赛一等奖（2024）
+- 第十九届“辽宁法治论坛”学术论文一等奖（2023）
+- 博士研究生国家奖学金（2021）
+- 天津市大学生创新创业特等奖（2021，全校仅1名）
+- 南开大学研究生周恩来奖学金提名奖（2021，全校共10名）
+- 南开大学年度人物提名奖（2021，全校共10名）
+- 南开大学研究生党员青年先锋（2021）	
+- 南开大学青年五四奖章入围奖（2021）
+- 南开大学研究生优秀共产党员（2021）	
+- 南开大学研究生优秀学生（2021）
+- 硕士研究生国家奖学金（2018）	
+- 四川省大学生综合素质A级证书（2016）	
+- 四川省优秀大学毕业生（2017，省级）	
+- 唐立新光华菁英奖学金（2016，清北复交浙川大等多校选拨）
+- 西南财经大学 “五四青年标兵”（2016，全校共10名）
+- 西南财经大学三好学生、优秀学生干部、优秀青年志愿者、优秀共青团员
