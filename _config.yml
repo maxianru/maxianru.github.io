@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "马贤茹"
-description              : "讲师，硕士生导师"
+description              : 
 repository               : "maxianru/maxianru.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +24,7 @@ author:
   english_name             : "Xianru Ma"
   chinese_name             : "马贤茹"
   avatar           : "images/Chi.jpg"
-  bio              : 
+  bio              : "讲师，硕士生导师"
   location         : "大连，辽宁"
   employer         : "东北财经大学"
   pubmed           : 
